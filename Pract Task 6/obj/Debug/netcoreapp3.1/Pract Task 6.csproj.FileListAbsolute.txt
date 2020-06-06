@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\bin\Debug\netcoreapp3.1\Pract Task 6.exe
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\bin\Debug\netcoreapp3.1\Pract Task 6.deps.json
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\bin\Debug\netcoreapp3.1\Pract Task 6.runtimeconfig.json
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\bin\Debug\netcoreapp3.1\Pract Task 6.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\bin\Debug\netcoreapp3.1\Pract Task 6.dll
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\bin\Debug\netcoreapp3.1\Pract Task 6.pdb
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\obj\Debug\netcoreapp3.1\Pract Task 6.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\obj\Debug\netcoreapp3.1\Pract Task 6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\obj\Debug\netcoreapp3.1\Pract Task 6.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\obj\Debug\netcoreapp3.1\Pract Task 6.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\obj\Debug\netcoreapp3.1\Pract Task 6.dll
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\obj\Debug\netcoreapp3.1\Pract Task 6.pdb
+C:\Users\Acer\source\repos\Pract Task 6\Pract Task 6\obj\Debug\netcoreapp3.1\Pract Task 6.genruntimeconfig.cache
